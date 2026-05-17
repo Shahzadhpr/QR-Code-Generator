@@ -3,7 +3,7 @@
 A clean, responsive web application that instantly generates QR codes from any text or URL. Built with vanilla HTML, CSS, and JavaScript.
 ### 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://shahzadhpr.github.io/Qr-Code-Generator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://shahzadhpr.github.io/QR-Code-Generator)
 
 > 👆🏻 Click here to see the live version of the project
 
